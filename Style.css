@@ -1,0 +1,34 @@
+body{
+    text-align: center;
+
+}
+.div{
+    height: 150px;
+    width: 150px;
+    border: 7px solid black;
+    border-radius: 20%;
+    margin: 1.5rem;
+}
+.div1,.div2{
+    display: flex;
+    justify-content: center;
+}
+.c1{
+  background-color: #dd4b3e;
+}
+.c2{
+    background-color: #ffea37;
+}
+.c3{
+    background-color: #3edd4b;
+}
+.c4{
+    background-color: #4b3edd;
+}
+.flash{
+    background-color: white;
+}
+
+.uflash{
+    background-color: darkorange;
+}
